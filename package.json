@@ -1,7 +1,7 @@
 {
   "name": "pi-gpt-instruct",
   "version": "0.1.0",
-  "description": "适用于 PI Coding 的 GPT 系列模型破甲插件。",
+  "description": "适用于 PI Coding 的 GPT 系列模型破甲插件。 / A jailbreak extension for GPT models in PI Coding.",
   "license": "MIT",
   "keywords": [
     "pi-package"
@@ -14,7 +14,8 @@
     "extensions/",
     "assets/",
     "LICENSE",
-    "README.md"
+    "README.md",
+    "README.en.md"
   ],
   "peerDependencies": {
     "@earendil-works/pi-coding-agent": "*"

@@ -1,3 +1,5 @@
+**简体中文** | [English](README.en.md)
+
 ![pi-gpt-instruct](assets/hero.webp)
 
 # pi-gpt-instruct

@@ -2,7 +2,7 @@
 
 # pi-gpt-instruct
 
-为 [Pi Coding Agent](https://pi.dev) 接入 [gpt-instruct](https://github.com/MDX-Tom/gpt-instruct) 提示词，降低某些任务的拒绝率。
+适用于 PI Coding 的 GPT 系列模型破甲插件。
 
 ## 安装与快速上手
 

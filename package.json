@@ -1,0 +1,28 @@
+{
+  "name": "pi-gpt-instruct",
+  "version": "0.1.0",
+  "description": "为 Pi Coding Agent 接入 gpt-instruct 提示词，降低某些任务的拒绝率。",
+  "license": "MIT",
+  "keywords": [
+    "pi-package"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TATnvn/pi-gpt-instruct.git"
+  },
+  "files": [
+    "extensions/",
+    "assets/",
+    "LICENSE",
+    "README.md"
+  ],
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*"
+  },
+  "pi": {
+    "extensions": [
+      "./extensions/gpt-instruct.ts"
+    ],
+    "image": "./assets/hero.webp"
+  }
+}

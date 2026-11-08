@@ -4,7 +4,7 @@
 
 # pi-gpt-instruct
 
-A jailbreak extension for GPT models in PI Coding.
+A jailbreak extension for GPT models in PI Coding. Uses prompts from [gpt-instruct](https://github.com/MDX-Tom/gpt-instruct) to reduce refusal rates for certain tasks.
 
 ## Installation & Quick Start
 

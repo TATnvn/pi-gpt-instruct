@@ -4,7 +4,7 @@
 
 # pi-gpt-instruct
 
-适用于 PI Coding 的 GPT 系列模型破甲插件。
+适用于 PI Coding 的 GPT 系列模型破甲插件，使用 [gpt-instruct](https://github.com/MDX-Tom/gpt-instruct) 提示词，降低某些任务的拒绝率。
 
 ## 安装与快速上手
 
